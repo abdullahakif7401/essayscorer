@@ -1,7 +1,9 @@
 **OBJECTIVE**
+<br>
 To develop an automated scoring algorithm for student-written essays
 
 **PROCEDURE**
+<br>
 Conducted predictive analysis, through machine learning on a dataset using Python in the Jupyter Notebook environment.
 
 - Read and descrobed the data using basic statistics and exposure to some natural language processing terms.
@@ -11,6 +13,7 @@ Conducted predictive analysis, through machine learning on a dataset using Pytho
 - Experienced independent model evaluation through submission on Kaggle
 
 **DATA**
+<br>
 The data provided was in a single comma seperated (CSV) file, it has been derived from a set of essays and is used to describe the essay features in numeric information. The columns are:
     • essayid - a unique id to identify the essay
     • chars - number of characters in the essay, including spaces
